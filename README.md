@@ -1,7 +1,7 @@
 ### Hi there, I'm Pushpak
 
 <h3 align="left">
-I am currently working as Software Developer(Python) at Secure Meters Ltd. and having a total Work Experience of more than 3 years. I have completed my B.E. from M.B.M. Jodhpur in 2019 with specialization in Electrical and Electronics (Gold Medalist). 
+I am currently working as Software Developer(Python) at Secure Meters Ltd. and having a total Work Experience of more than 4 years. I have completed my B.E. from M.B.M. Jodhpur in 2019 with specialization in Electrical and Electronics (Gold Medalist). 
 </h3> 
 
 ### 🔭 I’m currently working on ...
