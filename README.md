@@ -1,7 +1,7 @@
 ### Hi there, I'm Pushpak
 
 <h3 align="left">
-I am currently working as Software Developer(Python) at Secure Meters Ltd. and having a total Work Experience of more than 4 years. I have completed my B.E. from M.B.M. Jodhpur in 2019 with specialization in Electrical and Electronics (Gold Medalist). 
+I am currently working as Machine Learning Engineer-SDE at Secure Meters Ltd. and having a total Work Experience of more than 4 years. I have completed my B.E. from M.B.M. Jodhpur in 2019 (Gold Medalist) and currently pursuing M.S in Computer Science with specialization in AI-ML. 
 </h3> 
 
 ### 🔭 I’m currently working on ...
@@ -12,6 +12,7 @@ I am currently working as Software Developer(Python) at Secure Meters Ltd. and h
 ### 🌱 I’m currently learning ...
 - Machine learning Specialization
 - Deep learning specialization
+- TensorFlow
 
 ### 📫 Connect me: ...
 <a href="www.linkedin.com/in/pushpakmangal1803"><img align="left" src="https://raw.githubusercontent.com/pushpakmangal/pushpakmangal/main/images/linkedin.svg" alt="Pushpak Mangal | LinkedIn" width="21px"/></a>
@@ -28,10 +29,7 @@ I am currently working as Software Developer(Python) at Secure Meters Ltd. and h
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
