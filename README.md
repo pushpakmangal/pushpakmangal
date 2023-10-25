@@ -1,12 +1,14 @@
 ### Hi there, I'm Pushpak
 
 <h3 align="left">
-I am currently working as Machine Learning Engineer-SDE at Secure Meters Ltd. and having a total Work Experience of more than 4 years. I have completed my B.E. from M.B.M. Jodhpur in 2019 (Gold Medalist) and currently pursuing M.S in Computer Science with specialization in AI-ML. 
+I am currently working as Application Software Developer at Secure Meters Ltd. and having a total Work Experience of more than 4 years. I have completed my B.E. from M.B.M. Jodhpur in 2019 (Gold Medalist) and currently pursuing M.S in Computer Science with specialization in AI-ML. 
 </h3> 
 
 ### 🔭 I’m currently working on ...
 - Optical Character Recognition Project
+- Computer Vision Projects
 - Machine learning skills
+- Deep learning skills
 - Data Science skills
   
 ### 🌱 I’m currently learning ...
