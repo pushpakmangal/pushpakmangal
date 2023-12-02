@@ -5,6 +5,8 @@ I am currently working as Application Software Developer at Secure Meters Ltd. a
 </h3> 
 
 ### 🔭 I’m currently working on ...
+- LLMs
+- Generative AI projects
 - Optical Character Recognition Project
 - Computer Vision Projects
 - Machine learning skills
@@ -12,6 +14,7 @@ I am currently working as Application Software Developer at Secure Meters Ltd. a
 - Data Science skills
   
 ### 🌱 I’m currently learning ...
+- Fine tuning Large Langauage Models
 - Machine learning Specialization
 - Deep learning specialization
 - TensorFlow
